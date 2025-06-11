@@ -45,18 +45,5 @@ Bu proje, modern ve kullanıcı dostu bir arayüze sahip C# Windows Forms ile ge
 - Giriş yaptıktan sonra kullanıcı rolüne göre ilgili panele yönlendirilirsiniz.
 - Admin panelinden otobüs ve sefer yönetimi, müşteri panelinden bilet işlemleri yapılabilir.
 
-## Ekran Görüntüleri
 
-> Modern ve renkli arayüzler, kullanıcı dostu tasarım.
-
-## Katkı ve Lisans
-
-- Katkıda bulunmak için pull request gönderebilirsiniz.
-- Bu proje MIT lisansı ile lisanslanmıştır.
-
----
-
-**Hazırlayan:**
-- [Adınızı buraya yazabilirsiniz]
-- 2025
 
